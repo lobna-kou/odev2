@@ -5,6 +5,7 @@ The probability of choosing a white pair of socks is 6/10 .
 The probability of choosing a white tee shirt is 3/7 .
 The probability of both being white is 6/10.3/7=9/35  
 Python solution:
+
 # Define the number of white socks and white t-shirts
 white_socks = 6
 total_socks = 10
@@ -26,4 +27,3 @@ print("The probability of selecting both a white pair of socks and a white t-shi
 
 OUTPUT:
 The probability of selecting both a white pair of socks and a white t-shirt is: 0.2571428571428571
-
